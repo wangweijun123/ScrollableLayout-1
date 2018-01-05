@@ -6,8 +6,8 @@ android {
     resourcePrefix "cplib_"
 
     defaultConfig {
-        minSdkVersion 15
-        targetSdkVersion 26
+        minSdkVersion 8
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
     }

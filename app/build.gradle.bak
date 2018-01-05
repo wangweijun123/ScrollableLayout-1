@@ -5,8 +5,8 @@ android {
     buildToolsVersion "27.0.0"
     defaultConfig {
         applicationId "com.test.cp.myscrolllayout"
-       minSdkVersion 15
-        targetSdkVersion 26
+        minSdkVersion 8
+        targetSdkVersion 22
         versionCode 1
         versionName "1.0"
     }
